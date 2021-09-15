@@ -1,3 +1,4 @@
+# "code ." Not working in Command Line for Visual Studio Code on OSX/Mac
 
 ## 1. Make sure you drag Visual Studio Code app into the -Applications- folder
 Otherwise (as noted in the comments) you'll have to go through this process again after reboot
